@@ -21,7 +21,7 @@ border-width: 1px;
 }
 
 /*nav bar inicio*/
-.navbar, body, html{
+.navbar{
 	padding-left: 980px;
 	font-size: 20px;	
 }
