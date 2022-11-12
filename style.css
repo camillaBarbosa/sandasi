@@ -22,11 +22,8 @@ border-width: 1px;
 
 /*nav bar inicio*/
 .navbar{
-	padding-left: 960px;
-	font-size: 29px;	
-	font-weight: bold;
-	color: black;
-	text-align: center;
+	padding-left: 980px;
+	font-size: 20px;	
 }
 .nav {
 	display: flex;
@@ -696,7 +693,7 @@ width: left;
 	transition: 200ms;
 }
 .principal ul{
-	list-style: circle;
+	list-style-type: none;
 }
 
 
@@ -888,6 +885,10 @@ border-width: 1px;
 	width: 25px;
 	margin: 0px 8px 0px 0px;
 }
+.imgrodape{
+    width: 60px;
+
+}
 
 .copyright {
 	color:  white;
@@ -900,25 +901,25 @@ border-width: 1px;
 		width: auto;
 	}
 
-	.principal, .conteudo-camadast, .imagem-terra, .video-sistema, .espaco {
+	.principal, .trabalhos, .quemsou, .agendamento, .localizacao {
 		width: auto;
 	}
 
-	.planetas {
+	.descri-topicos {
 		width: auto;	
 	}
 
-	.planetas h2, .ano-solar, .descricao-planeta {
+	.principal h2, .trabalhos, .descri-topicos{
 		font-size: 1em;
 	}
 
-	.planetas li {
+	.principal li {
 		width: 46%;
 		align-content: center;
 		margin: 5px 6px;
 	}
 
-	.planetas li:hover h2 {
+	.principal li:hover h2 {
 	font-size: 1.05em;
 	}
 
@@ -930,7 +931,7 @@ border-width: 1px;
 		position: static;
 	}
 
-	.lista-camadast, .imagem-camadast {
+	.carousel, .imagem-camadast {
 		width: 85%;
 	}
 
