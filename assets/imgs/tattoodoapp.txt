@@ -1,0 +1,17 @@
+TATTTOODO
+primeiro acesso ele te da 3 opções para entrar facebook, gmail ou email.
+caso selecione gmail, voce deve inserir uma foto e um nome, selecionar localidade e selecionar que tipo de tattoo você se interessa.
+no aplicativo te da a opção de encontrar um tipo de tatto que te agrade, e se comunicar com o tatuador
+
+Skink tattoo
+ao entrar pode fazer login, entrar sem login e se cadastrar
+na area de cadastro deve colocar nome email celular e senha
+na tela inicial ah opções de buscar leilão feed e minha conta
+na tela inicial que abre você seleciona um desenho e reserva ele
+ao clicar tem a descrição de quem é o tatuador valor tamanho tempo estimado e endereço
+leilão tem a mesma descrição sobre a tatuagem e a imagem dela no momento não havia nenhuma
+feed é o mesmo que a pagina que inicia o app
+o buscar tem a pesquisa de tatuador e a pesquisa da tatuagem com varios topicos como aquarela old school e etc
+no buscar cliclando na abada de tatuadores você tem as opções com o nome e a foto do tatuador
+clicando no tatuador tem as opções de desenhos flash seguidores portifolio local avaliações enviar sugestão
+
